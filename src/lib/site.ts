@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Keïna Rauck",
-  role: "Baby-sitting · Pet-sitting · Cours d'anglais",
+  role: "Baby-sitting · Garde d'animaux · Cours d'anglais",
   zone: "Secteur de Val d'Arry",
   // Numéro WhatsApp au format international, sans "+" ni espaces.
   whatsappNumber: "33641845229",

@@ -27,9 +27,9 @@ const services = [
     accent: "bg-sage-50",
   },
   {
-    id: "pet-sitting",
+    id: "garde-animaux",
     icon: <PawPrint className="w-6 h-6" />,
-    label: "Pet-sitting",
+    label: "Garde d'animaux",
     tagline: "Vos animaux choyés comme à la maison.",
     description:
       "Chiens, chats, petits animaux : je veille sur vos compagnons pendant votre absence. Promenades, visites à domicile, nourrissage et compagnie, vos animaux ne seront pas seuls.",
@@ -42,7 +42,7 @@ const services = [
     image: "/keina-pet-sitting.jpg",
     imageAlt: "Keïna donnant à manger à un chien golden retriever dans une cuisine",
     ctaMessage:
-      "Bonjour Keïna, je suis intéressé(e) par vos services de pet-sitting. Pouvez-vous m'en dire plus ?",
+      "Bonjour Keïna, je suis intéressé(e) par vos services de garde d'animaux. Pouvez-vous m'en dire plus ?",
     accent: "bg-cream-50",
   },
   {

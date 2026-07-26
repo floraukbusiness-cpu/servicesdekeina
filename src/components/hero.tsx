@@ -50,9 +50,9 @@ export function Hero() {
               <strong className="font-bold italic text-sage-600">
                 baby-sitting
               </strong>
-              , du{" "}
+              , de la{" "}
               <strong className="font-bold italic text-sage-600">
-                pet-sitting
+                garde d'animaux
               </strong>{" "}
               et des{" "}
               <strong className="font-bold italic text-sage-600">
@@ -93,7 +93,7 @@ export function Hero() {
             >
               {[
                 { label: "Baby-sitting" },
-                { label: "Pet-sitting" },
+                { label: "Garde d'animaux" },
                 { label: "Cours d'anglais" },
               ].map((item) => (
                 <div key={item.label} className="flex items-center gap-2 text-sm text-slate-500">

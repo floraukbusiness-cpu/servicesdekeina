@@ -17,21 +17,21 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   metadataBase: new URL("https://keinarauck.fr"),
   title: {
-    default: "Keïna Rauck · Baby-sitting, pet-sitting & cours d'anglais à Val d'Arry",
+    default: "Keïna Rauck · Baby-sitting, garde d'animaux & cours d'anglais à Val d'Arry",
     template: "%s · Keïna Rauck",
   },
   description:
-    "Bilingue après 7 ans en Angleterre, je propose du baby-sitting, du pet-sitting et des cours d'anglais dans le secteur de Val d'Arry. Confiance, douceur et sérieux. Contactez-moi sur WhatsApp.",
+    "Bilingue après 7 ans en Angleterre, je propose du baby-sitting, de la garde d'animaux et des cours d'anglais dans le secteur de Val d'Arry. Confiance, douceur et sérieux. Contactez-moi sur WhatsApp.",
   keywords: [
     "baby-sitting Val d'Arry",
-    "pet-sitting Val d'Arry",
+    "garde d'animaux Val d'Arry",
     "cours d'anglais Val d'Arry",
     "garde d'enfants Calvados",
     "bilingue anglais Val d'Arry",
   ],
   authors: [{ name: "Keïna Rauck" }],
   openGraph: {
-    title: "Keïna Rauck · Baby-sitting, pet-sitting & cours d'anglais à Val d'Arry",
+    title: "Keïna Rauck · Baby-sitting, garde d'animaux & cours d'anglais à Val d'Arry",
     description:
       "Bilingue après 7 ans en Angleterre. Je m'occupe de la garde d'enfants et des animaux, et je donne des cours d'anglais dans le secteur de Val d'Arry. Contactez-moi sur WhatsApp.",
     type: "website",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Keïna Rauck · Baby-sitting, pet-sitting & cours d'anglais à Val d'Arry",
+    title: "Keïna Rauck · Baby-sitting, garde d'animaux & cours d'anglais à Val d'Arry",
     description:
       "Bilingue après 7 ans en Angleterre. Je m'occupe de la garde d'enfants et des animaux, et je donne des cours d'anglais dans le secteur de Val d'Arry.",
   },
