@@ -54,7 +54,11 @@ export function Hero() {
               <strong className="font-bold italic text-sage-600">
                 pet-sitting
               </strong>{" "}
-              et des cours d'anglais.
+              et des{" "}
+              <strong className="font-bold italic text-sage-600">
+                cours d'anglais
+              </strong>
+              .
               <br />
               Bilingue et sérieuse, je suis là pour que vous puissiez avoir
               l'esprit tranquille.
