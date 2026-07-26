@@ -58,7 +58,7 @@ const services = [
       "Cours pour adultes, collégiens & lycéens",
       "Présentiel ou visio, selon vos besoins",
     ],
-    image: "/keina-cours-anglais.jpg",
+    image: "/keina-cours-anglais.png",
     imageAlt: "Keïna donnant un cours d'anglais à un adolescent",
     ctaMessage:
       "Bonjour Keïna, je suis intéressé(e) par des cours d'anglais. Pouvez-vous m'en dire plus ?",
