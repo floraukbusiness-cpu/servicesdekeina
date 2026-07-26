@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     template: "%s · Keïna Rauck",
   },
   description:
-    "Bilingue après 7 ans en Angleterre, Keïna propose baby-sitting, pet-sitting et cours d'anglais dans le secteur de Val d'Arry. Confiance, douceur et sérieux. Contactez-moi sur WhatsApp.",
+    "Bilingue après 7 ans en Angleterre, je propose du baby-sitting, du pet-sitting et des cours d'anglais dans le secteur de Val d'Arry. Confiance, douceur et sérieux. Contactez-moi sur WhatsApp.",
   keywords: [
     "baby-sitting Val d'Arry",
     "pet-sitting Val d'Arry",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Keïna Rauck — Baby-sitting, pet-sitting & cours d'anglais à Val d'Arry",
     description:
-      "Bilingue après 7 ans en Angleterre. Garde d'enfants, animaux et cours d'anglais dans le secteur de Val d'Arry. Contactez-moi sur WhatsApp.",
+      "Bilingue après 7 ans en Angleterre. Je m'occupe de la garde d'enfants et des animaux, et je donne des cours d'anglais dans le secteur de Val d'Arry. Contactez-moi sur WhatsApp.",
     type: "website",
     locale: "fr_FR",
     siteName: "Keïna Rauck",
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Keïna Rauck — Baby-sitting, pet-sitting & cours d'anglais à Val d'Arry",
     description:
-      "Bilingue après 7 ans en Angleterre. Garde d'enfants, animaux et cours d'anglais dans le secteur de Val d'Arry.",
+      "Bilingue après 7 ans en Angleterre. Je m'occupe de la garde d'enfants et des animaux, et je donne des cours d'anglais dans le secteur de Val d'Arry.",
   },
   robots: {
     index: true,

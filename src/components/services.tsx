@@ -13,7 +13,7 @@ const services = [
     label: "Baby-sitting",
     tagline: "Votre enfant entre de bonnes mains.",
     description:
-      "Keïna s'occupe de vos enfants à votre domicile avec autonomie et bienveillance : surveillance, jeux, aide aux devoirs. Elle respecte vos consignes et garde un œil attentif en toutes circonstances.",
+      "Je m'occupe de vos enfants à votre domicile avec autonomie et bienveillance : surveillance, jeux, aide aux devoirs. Je respecte vos consignes et je garde un œil attentif en toutes circonstances.",
     highlights: [
       "Garde à domicile en autonomie",
       "Respect des consignes parentales",
@@ -32,7 +32,7 @@ const services = [
     label: "Pet-sitting",
     tagline: "Vos animaux choyés comme à la maison.",
     description:
-      "Chiens, chats, petits animaux — Keïna veille sur vos compagnons pendant votre absence. Promenades, visites à domicile, nourrissage et compagnie : vos animaux ne seront pas seuls.",
+      "Chiens, chats, petits animaux — je veille sur vos compagnons pendant votre absence. Promenades, visites à domicile, nourrissage et compagnie : vos animaux ne seront pas seuls.",
     highlights: [
       "Promenades pour chiens",
       "Visites à domicile chats & autres",
@@ -51,7 +51,7 @@ const services = [
     label: "Cours d'anglais",
     tagline: "L'anglais courant, transmis avec naturel.",
     description:
-      "Bilingue après 7 ans de scolarité en Angleterre, Keïna maîtrise l'anglais comme une langue maternelle. Elle propose des cours adaptés : adultes, collégiens et lycéens, en présentiel ou en visio.",
+      "Bilingue après 7 ans de scolarité en Angleterre, je maîtrise l'anglais comme une langue maternelle. Je propose des cours adaptés : adultes, collégiens et lycéens, en présentiel ou en visio.",
     highlights: [
       "7 ans de scolarité en Angleterre",
       "Anglais parlé au quotidien",

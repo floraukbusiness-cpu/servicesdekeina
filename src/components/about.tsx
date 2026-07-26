@@ -10,18 +10,18 @@ const timeline = [
     year: "2013 – 2020",
     title: "Scolarité en Angleterre",
     description:
-      "7 ans de scolarité complète en Angleterre. L'anglais fait partie intégrante de sa vie — pas une langue apprise, une langue vécue.",
+      "7 ans de scolarité complète en Angleterre. L'anglais fait partie intégrante de ma vie — pas une langue apprise, une langue vécue.",
   },
   {
     year: "2024",
     title: "Brevet des collèges",
-    description: "Obtenu au Collège Simone Veil de Villers-Bocage.",
+    description: "Je l'ai obtenu au Collège Simone Veil de Villers-Bocage.",
   },
   {
     year: "2025",
     title: "Baccalauréat en cours",
     description:
-      "Lycée François de Malherbe à Caen, spécialités Français et Mathématiques. Prévision 2026.",
+      "Je suis au Lycée François de Malherbe à Caen, spécialités Français et Mathématiques. Diplôme prévu en 2026.",
   },
 ];
 

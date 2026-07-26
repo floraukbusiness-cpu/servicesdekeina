@@ -9,37 +9,37 @@ const reasons = [
     icon: <ShieldCheck className="w-6 h-6" />,
     title: "Fiable et ponctuelle",
     description:
-      "Sérieuse dans tout ce qu'elle fait, Keïna respecte ses engagements. Vous pouvez compter sur elle.",
+      "Je suis sérieuse dans tout ce que je fais et je respecte mes engagements. Vous pouvez compter sur moi.",
   },
   {
     icon: <Star className="w-6 h-6" />,
     title: "Expérience réelle",
     description:
-      "Des gardes d'enfants réalisées de manière autonome, avec respect des consignes et surveillance attentive.",
+      "J'ai déjà réalisé des gardes d'enfants en toute autonomie, en respectant les consignes et avec une surveillance attentive.",
   },
   {
     icon: <BookOpen className="w-6 h-6" />,
     title: "Bilingue anglais",
     description:
-      "Après 7 ans de scolarité en Angleterre, l'anglais est sa deuxième langue maternelle — un vrai plus au quotidien.",
+      "Après 7 ans de scolarité en Angleterre, l'anglais est ma deuxième langue maternelle — un vrai plus au quotidien.",
   },
   {
     icon: <Heart className="w-6 h-6" />,
     title: "À l'aise avec les animaux",
     description:
-      "Keïna aime les animaux et les soins qu'ils méritent : promenades, visites à domicile, accompagnement bienveillant.",
+      "J'aime les animaux et je prends soin d'eux avec attention : promenades, visites à domicile, accompagnement bienveillant.",
   },
   {
     icon: <Smile className="w-6 h-6" />,
     title: "Souriante et avenante",
     description:
-      "Les enfants l'adorent. Son naturel chaleureux met immédiatement à l'aise les petits comme les parents.",
+      "Les enfants m'adorent. Mon naturel chaleureux met immédiatement à l'aise les petits comme les parents.",
   },
   {
     icon: <Clock className="w-6 h-6" />,
     title: "Disponible et réactive",
     description:
-      "Lycéenne sérieuse, elle sait gérer ses priorités. Elle répond rapidement et s'adapte à vos besoins.",
+      "Lycéenne sérieuse, je sais gérer mes priorités. Je réponds rapidement et je m'adapte à vos besoins.",
   },
 ];
 
