@@ -18,8 +18,7 @@ export function ContactCTA() {
           </h2>
           <p className="mt-5 text-lg text-sage-200 leading-relaxed text-balance">
             Un message suffit. Présentez-vous, décrivez votre besoin et votre
-            zone — je vous réponds rapidement et nous organisons tout
-            simplement.
+            zone, je vous réponds rapidement et on organise tout simplement.
           </p>
 
           <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">

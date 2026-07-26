@@ -10,7 +10,7 @@ const timeline = [
     year: "2013 – 2020",
     title: "Scolarité en Angleterre",
     description:
-      "7 ans de scolarité complète en Angleterre. L'anglais fait partie intégrante de ma vie — pas une langue apprise, une langue vécue.",
+      "7 ans de scolarité complète en Angleterre. L'anglais fait partie intégrante de ma vie : pas une langue apprise, une langue vécue.",
   },
   {
     year: "2024",
@@ -57,7 +57,7 @@ export function About() {
                 <Languages size={15} />
                 <span className="text-xs font-semibold uppercase tracking-wider">Bilingue</span>
               </div>
-              <p className="text-xs text-slate-600">Français — Anglais</p>
+              <p className="text-xs text-slate-600">Français · Anglais</p>
             </div>
             {/* Zone badge */}
             <div className="absolute -right-2 sm:-right-6 bottom-8 bg-white rounded-2xl shadow-lg px-4 py-3 border border-sage-100 max-w-[160px]">

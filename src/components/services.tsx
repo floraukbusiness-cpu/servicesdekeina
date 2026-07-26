@@ -32,7 +32,7 @@ const services = [
     label: "Pet-sitting",
     tagline: "Vos animaux choyés comme à la maison.",
     description:
-      "Chiens, chats, petits animaux — je veille sur vos compagnons pendant votre absence. Promenades, visites à domicile, nourrissage et compagnie : vos animaux ne seront pas seuls.",
+      "Chiens, chats, petits animaux : je veille sur vos compagnons pendant votre absence. Promenades, visites à domicile, nourrissage et compagnie, vos animaux ne seront pas seuls.",
     highlights: [
       "Promenades pour chiens",
       "Visites à domicile chats & autres",

@@ -21,7 +21,7 @@ const reasons = [
     icon: <BookOpen className="w-6 h-6" />,
     title: "Bilingue anglais",
     description:
-      "Après 7 ans de scolarité en Angleterre, l'anglais est ma deuxième langue maternelle — un vrai plus au quotidien.",
+      "Après 7 ans de scolarité en Angleterre, l'anglais est ma deuxième langue maternelle, un vrai plus au quotidien.",
   },
   {
     icon: <Heart className="w-6 h-6" />,

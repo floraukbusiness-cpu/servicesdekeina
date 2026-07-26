@@ -32,7 +32,7 @@ const faqs = [
   },
   {
     q: "Comment réserver ou se renseigner ?",
-    a: "Tout passe par WhatsApp. C'est simple, rapide et direct. Cliquez sur le bouton de contact, présentez-vous et décrivez votre besoin — je vous réponds rapidement.",
+    a: "Tout passe par WhatsApp. C'est simple, rapide et direct. Cliquez sur le bouton de contact, présentez-vous et décrivez votre besoin, je vous réponds rapidement.",
   },
 ];
 
